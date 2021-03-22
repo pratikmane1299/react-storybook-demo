@@ -7,14 +7,17 @@
   display: inline-block;
   line-height: 1;
 }
+.storybook-button:hover {
+  opacity: 0.8;
+}
 .storybook-button--primary {
   color: white;
   background-color: #1ea7fd;
 }
 .storybook-button--secondary {
-  color: #333;
-  background-color: transparent;
-  box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 1px inset;
+  color: #fff;
+  background-color: #696767;
+  box-shadow: hsla(0, 0%, 0%, 0.149) 0px 0px 0px 1px inset;
 }
 .storybook-button--small {
   font-size: 12px;
