@@ -52,7 +52,7 @@
   font-weight: lighter;
   word-wrap: break-word;
 }
-.post__action {
+.post__action a {
   display: inline-block;
   vertical-align: top;
   text-align: center;
